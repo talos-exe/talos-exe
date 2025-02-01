@@ -4,6 +4,6 @@
 
 ### I'm obsessed with C, although I'm better at other languages.
 
-Learning: C, C++
-Interests: Graphical Programming. Kernel Programming. Memory Integrity Research. Reverse Engineering.
+Learning: C, C++ <br/>
+Interests: Graphical Programming. Kernel Programming. Memory Integrity Research. Reverse Engineering. <br/>
 Remembers: the old internet
